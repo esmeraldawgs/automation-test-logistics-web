@@ -1,4 +1,4 @@
-# automation-test-logistics-web
+# Automation Test Logistics Web
 
 This repository contains Cypress and JavaScript automated tests for a logistics website, using element interaction and CSS selectors for validation.
 
