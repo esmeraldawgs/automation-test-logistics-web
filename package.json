@@ -1,0 +1,12 @@
+{
+  "name": "logistics-web",
+  "version": "1.0.0",
+  "description": "Automation Test with Cypress",
+  "main": "index.js",
+  "author": "Esmeralda Wangsa",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.9.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
